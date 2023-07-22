@@ -46,8 +46,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 There are many CRMs for automating recruitment, but I didn't find one that really fits my needs, so I'm building my own application based on my experience both in-house and in a recruitment agency.
 
 Here's why:
