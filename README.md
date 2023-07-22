@@ -122,7 +122,8 @@ There will be useful examples of how the project can be used.
 
 * Templates - 90%,
 * Prisma DB - 95%,
-* NextAuth - 99%.
+* NextAuth - 99%,
+* API - 0%.
 
 <p align="right">(<a href="#nextjs-crm-recruitment">back to top</a>)</p>
 
